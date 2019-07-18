@@ -1,6 +1,6 @@
 ## BmrExtractor - Natural language processing (NLP) system for extracting measurements from bone marrow reports
 
-BmrExtractor Pipeline is designed to find blast count, cellularity and fibrosis measurements in bone marrow reports.   
+BmrExtractor pipeline is designed to find blast count, cellularity and fibrosis measurements in bone marrow reports.   
 
 BmrExtractor is based on Leo architecture extending UIMA AS.  For more info on Leo see [ http://department-of-veterans-affairs.github.io/Leo/userguide.html ]. Specifically, BmrExtractor was modeled after a specific instance of Leo, named EFEx, that was developed by the VA researchers to extract left ventricular ejection fraction measurements from Echocardiograms. 
 
