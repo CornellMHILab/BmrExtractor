@@ -8,9 +8,9 @@ Extraction strategy implemented in BmrExtractor is specific to WCM bone marrow r
 
 To use BmrExtractor :
 
-  1.  Follow the instructions to install and configure UIMA AS as described on the Nexus page (https://nexus.weill.cornell.edu/display/ARCH/Installation+and+configuration).  
+  1.  Follow the instructions to install and configure UIMA AS as described on the Nexus page (http://department-of-veterans-affairs.github.io/Leo/userguide.html#/a2_Installation_and_Configuration_of_Leo-Example).  
   
-  2. Checkout and install Leo BmrExtractor code base (https://svn.med.cornell.edu/dev/researchinformatics/trunk/nlp/uima/uima-as/leo/BmrExtractor/) in a directory of choice.
+  2. Clone/download this repository in a directory of choice. If needed, modify source code and recompile the package using Maven.
   
   3. Start UIMA AS Broker.
      
