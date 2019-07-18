@@ -1,4 +1,4 @@
-## BmrExtractor - Natural language processing (NLP) system for extracting concepts from Bone Marrow Reports
+## BmrExtractor - Natural language processing (NLP) system for extracting measurements from bone marrow reports
 
 BmrExtractor Pipeline is designed to find blast count, cellularity and fibrosis measurements in bone marrow reports.   
 
