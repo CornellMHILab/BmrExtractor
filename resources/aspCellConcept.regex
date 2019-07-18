@@ -1,0 +1,3 @@
+\bcellularity\b
+\b(bone\s{0,3})?marrow\b
+\bmarrow\s{0,3}cellularity\b

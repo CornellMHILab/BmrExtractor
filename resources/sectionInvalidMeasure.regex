@@ -1,0 +1,11 @@
+#BX
+aspirate\s*smears?
+flow\s*cytometry
+
+#ASP
+biopsy
+flow\s*cytometry
+
+#CYT
+biopsy
+aspirate\s*smears?

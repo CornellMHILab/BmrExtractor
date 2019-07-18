@@ -1,0 +1,15 @@
+.*(\s+|or|is|was|were|mild(ly)?|for|to|be|by|in|bein|on|are|at|the|a|visual(y)|normal|estimat(e|ed|es)|appears?|show(s|ed)?|reveal(s|ed)?|seen|done|also|but|has|have|had|overall|calculate(s|d)|assumed|quantified|range|increased?|decreased?|reduced?|markedly|measured).*
+(-|:|=| |%|\(|\|)+
+(\.){3,}
+(\s-\s)
+(\sis\s)
+(\s*(>|<)\s*)
+(\s*(-->|--&gt;)\s*)
+.*\\R\\.*
+(measured\s*today\s*(is|was))
+(on\s*initial)
+(\s*today\s*=?\s*)
+(\s*score\s*today\s*of )
+(\s*account\s*for\s*)
+(\s*varies\s*from\s*(<|>)?)
+# was in the range of

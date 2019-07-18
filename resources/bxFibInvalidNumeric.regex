@@ -1,0 +1,14 @@
+#PRE
+not (seen|meas(ured)?|assessed)
+
+#POST
+
+
+#WIN
+
+
+#ANCHOR
+\( ?\d+ ?\) ?(\d| |\-|\*)+
+\b\d+(\/|-|:|\.)\d+(\/|-|:\.)\d+
+\d+\/\d+\/\d+\s+\d+:\d+(:\d+ ?(am|pm)?)?
+\d+:\d+:\d+ ?(am|pm)

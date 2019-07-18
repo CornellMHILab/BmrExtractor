@@ -1,0 +1,3 @@
+(biopsy:)
+(biopsy\s*(&|and)\s*clot section:)
+(biopsy\s*(&|and)\s*aspirate smears?:)
