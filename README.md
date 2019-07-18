@@ -4,7 +4,7 @@ BmrExtractor pipeline is designed to find blast count, cellularity and fibrosis 
 
 BmrExtractor is based on Leo architecture extending UIMA AS.  For more info on Leo see [ http://department-of-veterans-affairs.github.io/Leo/userguide.html ]. Specifically, BmrExtractor was modeled after a specific instance of Leo, named EFEx, that was developed by the VA researchers to extract left ventricular ejection fraction measurements from Echocardiograms. 
 
-Extraction strategy implemented in BmrExtractor is specific to WCM bone marrow reports and its document format, and may not work well for bone marrow reports generated in clinical settings elsewhere. However, with familiarity in Leo architecture one can modify the pipeline implementation with minimal changes to suit individual needs.
+Extraction strategy implemented in BmrExtractor is specific to WCM bone marrow reports and its document format, and may not work well for bone marrow reports generated in clinical settings elsewhere. However, with some familiarity in Leo architecture one can modify the pipeline implementation with minimal changes to suit individual needs.
 
 To use BmrExtractor :
 
