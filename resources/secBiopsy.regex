@@ -1,2 +1,0 @@
-\n[A-H](\s?(\/|-|:|,|&)[A-H]){0,3}\.\s*.{0,40}bone marrow.{0,40}biopsy:?(.*?)(?=([A-H](\s?(\/|-|:|,|&)[A-H]){0,3}\.\s*{0,6}.{0,40}((blood smears?)|(touch preps)|(clot section)|(aspirate\s*smears?)|(flow cytometry)).{0,30}))
-(bone\s*marrow.{0,30}biopsy.{0,30}:)(.*?)(?=((\n[A-H](\s?(\/|-|:|,|&)[A-H]){0,3}\.\s*{0,6})|(aspirate smears?:)|(touch preps:)|(BONE MARROW ASPIRATE SMEAR DIFFERENTIAL CELL COUNT:)|(peripheral blood smears?:)|(aspirate for flow cytometry:)|(\*\* Electronically Signed Out \*\*)))

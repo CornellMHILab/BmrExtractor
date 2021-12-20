@@ -1,2 +1,0 @@
-(bone\s*marrow.{0,30}flow\s*cytometry.{0,30}:)(.*?)(?=((bone\s*marrow.{0,30}biopsy.{0,30}:)|(Adult Bone Marrow Reference Ranges:)|(peripheral blood smears?:)|(bone marrow.{0,20}aspirate smears?.{0,20}:)|(\*\* Electronically Signed Out \*\*)))
-[A-H](\s?(\/|-|:|,|&)[A-H]){0,3}\.\s*bone marrow.{0,40}flow cytometry:?(.*?)(?=([A-H](\s?(\/|-|:|,|&)\w){0,3}\.\s*{0,6}.{0,40}((blood smears?)|(clot section)|(aspirate\s*smears?)|(biopsy)).{0,30}))
